@@ -1,10 +1,12 @@
 ---
-title: Liyifan Chen 陈李逸帆
+title: CHEN LIYIFAN
 role: Master Student of International Relations
+avatar_filename: ""
 bio: My research interests include International Security.
 interests:
   - International Security
-  - Sino-US competition and International Relations Theory
+  - Sino-US competition
+  - International Relations Theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -24,12 +26,14 @@ social:
 organizations:
   - name: Insititute of World Economics and Politics, CASS
     url: http://www.iwep.org.cn/
+  - name: School of International Economics and Politics, UCASS
+    url: https://sir.ucass.edu.cn/
 education:
   courses:
     - course: M.L in International Relations
       institution: University of Chinese Academy of Social Sciences
       year: 2023
-    - course: Diploma in Human Rights Master Program
+    - course: Diploma in Human Rights Master
       institution: Peking University & Lund University
       year: 2022
     - course: B.S in Financial Mathematics
