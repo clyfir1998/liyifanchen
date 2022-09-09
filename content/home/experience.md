@@ -31,8 +31,3 @@ subtitle: null
 design:
   columns: "2"
 ---
-test
-
-test
-
-test
